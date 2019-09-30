@@ -7,7 +7,7 @@ function config($key = '')
 {
     $config = [
         'name' => 'Contoso Costume Rentals',
-        'app_url' => 'app-url-here',
+        'app_url' => 'https://contosorentalsapp10739.azurewebsites.net',
 		'graphics'=> false,
     ];
 
